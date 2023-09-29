@@ -1,4 +1,3 @@
-@[toc]
 
 
  作业基本信息
@@ -10,7 +9,7 @@
 
 
 ## Gitcode项目地址
-[Python实现简易计算器](https://gitcode.net/chenzhixin0302/python/-/tree/0952292532fd9fde4d2d202328e343d0afc3b5b0)
+[Python实现简易图形化计算器](https://gitcode.net/chenzhixin0302/python)
 ## PSP表格
 
 | PSP |Personal Software Process Stages  |预估耗时（分钟）|实际耗时（分钟）|
