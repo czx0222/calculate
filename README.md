@@ -199,10 +199,11 @@ def calculate(list):
 
  - **加减乘除运算**
 ![](https://img-blog.csdnimg.cn/b48bc6eceaa14fad81a2c06dc11f2452.gif#pic_center)
- **- 三角函数、对数等运算**
-![在这里插入图片描述](https://img-blog.csdnimg.cn/bcc1d54427d648a3907e205738665b3f.gif#pic_center)
- - **删除、清空功能**
 
+ - **三角函数、对数等运算**
+![在这里插入图片描述](https://img-blog.csdnimg.cn/bcc1d54427d648a3907e205738665b3f.gif#pic_center)
+
+ - **删除、清空功能**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/09c36492a52748068702138f15d49268.gif#pic_center)
 
 
@@ -211,9 +212,12 @@ def calculate(list):
 > 当用户输入错误的表达式时会通过输出错误及时提醒用户
 
  - **案例1：除数为0**
-![在这里插入图片描述](https://img-blog.csdnimg.cn/69cefdacd5be4961958e214fbcb405f8.gif#pic_center)
+
+![](https://img-blog.csdnimg.cn/69cefdacd5be4961958e214fbcb405f8.gif#pic_center)
  - **案例2：三角函数等运算时为加右括号**
- -![在这里插入图片描述](https://img-blog.csdnimg.cn/49a0f4b70742437f8141584965fa2708.gif#pic_center)
+
+ -![](https://img-blog.csdnimg.cn/49a0f4b70742437f8141584965fa2708.gif#pic_center)
+ 
  - **处理代码**
 
 ```python
